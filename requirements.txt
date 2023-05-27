@@ -1,5 +1,5 @@
 deta==1.1.0
-pandas==2.0.1
+pandas
 plotly==5.14.1
 python-dotenv==1.0.0
 PyYAML==6.0
