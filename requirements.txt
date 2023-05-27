@@ -6,4 +6,4 @@ PyYAML
 PyYAML
 streamlit
 streamlit_authenticator
-streamlit_option_menuS
+streamlit_option_menu
