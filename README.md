@@ -16,7 +16,9 @@ To run this project, you will need to add the following environment variables DE
 # Run the app
 To run the app in Termminal use command :
 $ streamlit run income_expenditure.py
-#Demo
+# Demo
 
+
+[income_expense_github.webm](https://github.com/NiranjanS1990/Household_daily_expense/assets/96157145/4bd0db0c-e431-4619-9ded-8e7150e8cf8f)
 
 
